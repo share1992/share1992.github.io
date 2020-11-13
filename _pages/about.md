@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Hi there! I'm Stephanie."
+excerpt: "I am a computational chemist by training, currently working in a chemical engineering department, with an interest in using static DFT calculations and molecular dynamics simulations to elucidate reaction mechanisms."
 author_profile: true
 redirect_from: 
   - /about/
