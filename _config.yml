@@ -84,7 +84,7 @@ author:
   avatar           : "SHare_headshot_new.jpg"
   bio              : "Computational chemist specializing in DFT calculations and MD simulations"
   location         : "Seattle, WA, USA"
-  employer         : |+ "Department of Chemical Engineering
+  employer         : "|+ Department of Chemical Engineering
                       University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zfW6nsMAAAAJ&hl=en&authuser=1"
