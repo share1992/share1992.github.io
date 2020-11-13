@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Stephanie R. Hare"
-  avatar           : "SHare_headshot_new.jpg"
+  avatar           : "profile.png"
   bio              : "Computational chemist specializing in DFT calculations and MD simulations"
   location         : "Seattle, WA USA"
   employer         : "University of Washington Department of Chemical Engineering"
