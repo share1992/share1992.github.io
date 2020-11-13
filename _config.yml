@@ -83,7 +83,7 @@ author:
   name             : "Dr. Stephanie R. Hare"
   avatar           : "SHare_headshot_new.jpg"
   bio              : "Computational chemist specializing in DFT calculations and MD simulations"
-  location         : "Seattle, WA USA"
+  location         : "Seattle, WA, USA"
   employer         : |+ "Department of Chemical Engineering
                       University of Washington"
   pubmed           : 
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/stephanie-hare-2a50039a/"
+  orcid            : "https://orcid.org/0000-0003-3153-143X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
