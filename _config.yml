@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Computational chemist specializing in DFT calculations and MD simulations"
   location         : "Seattle, WA USA"
-  employer         : "University of Washington Department of Chemical Engineering"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Department of Chemical Engineering/n University of Washington "
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zfW6nsMAAAAJ&hl=en&authuser=1"
   email            : "share@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
