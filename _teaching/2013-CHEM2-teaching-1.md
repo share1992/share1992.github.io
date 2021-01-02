@@ -8,13 +8,5 @@ date: 2013-09-30
 location: "Davis, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TBD
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
