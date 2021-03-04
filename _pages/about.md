@@ -16,7 +16,7 @@ I received my B.S. in Chemical Engineering from the University of Washington in 
 
 My Academic Map
 ======
-![Alt Text](jobmap/job_map_animated_v1.gif)
+![Alt Text](/jobmap/job_map_animated_v1.gif)
 
 
 Simulations I'm Into
