@@ -16,17 +16,7 @@ I received my B.S. in Chemical Engineering from the University of Washington in 
 
 My Academic Map
 ======
-University of Washington, Seattle, WA, USA
-  
-  ---> Humboldt Universitaet in Berlin, Germany 
-  
-University of California Davis, Davis, CA, USA
-
-  ---> Max Planck Institut fuer Kohlenforschung in Muelheim an der Ruhr, Germany
-  
-University of Bristol, Bristol, England
-
-University of Washington, Seattle, WA, USA
+![Alt Text](/jobmap/job_map_animated_v1.gif)
 
 
 Simulations I'm Into
