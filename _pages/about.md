@@ -21,5 +21,7 @@ My Academic Map
 Computational Tools I Enjoy
 ======
 DFT and ab initio molecular structure calculations
+
 Classical and ab initio molecular dynamics (MD) simulations
+
 Data analysis in Python
