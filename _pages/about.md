@@ -18,8 +18,8 @@ My Academic Map
 ======
 ![Alt Text](/jobmap/job_map_animated_v1.gif)
 
-
-Simulations I'm Into
+Computational Tools I Enjoy
 ======
-DFT and Ab initio structure optimizations
-Molecular dynamics (MD) simulations
+DFT and ab initio molecular structure calculations
+Classical and ab initio molecular dynamics (MD) simulations
+Data analysis in Python
