@@ -11,14 +11,13 @@ In September 2018, I joined the [CHemistry and Mathematics in Phase Space (CHAMP
 
 Since April 2020, I have been working in the Pfaendtner Research Group (PRG) in Chemical Engineering at the University of Washington (back where I started my academic career!). I am currently exploring the mechanisms of silica oligomerization reactions as well as using transition path sampling (TPS) and aimless shooting to analyze reactions containing post-transition state bifurcations. 
 
-My Academic Map
-======
+## My Academic Map
 ![Alt Text](/jobmap/job_map_animated_v1.gif)
 
-Computational Tools I Employ
-======
-DFT and ab initio molecular structure calculations
+## Computational Tools I Employ
 
-Classical and ab initio molecular dynamics (MD) simulations
+DFT and ab initio molecular structure calculations. 
 
-Data analysis and visualization in Python
+Classical and ab initio molecular dynamics (MD) simulations. 
+
+Data analysis and visualization in Python.  
