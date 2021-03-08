@@ -46,7 +46,7 @@ Teaching
   
 Service and leadership
 ======
-#### Women Chemists Committee (WCC) of the American Chemical Society (ACS)
+### Women Chemists Committee (WCC) of the American Chemical Society (ACS)
 Sexual Harassment Prevention Team Leader. 
 
 Wikipedia Edit-a-thon Event Coordinator. 
