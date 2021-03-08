@@ -46,4 +46,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+#### Women Chemists Committee (WCC) of the American Chemical Society (ACS)
+Sexual Harassment Prevention Team Leader
