@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational chemist currently working in the Department of Chemical Engineering at the University of Washington. My interests lie in applying computational tools to understand chemical reactions from a mechanistic perspective. 
----
+## _I am a computational chemist currently working in the Department of Chemical Engineering at the University of Washington. My interests lie in applying computational tools to understand chemical reactions from a mechanistic perspective._ 
 
 My Academic Map
 ======
