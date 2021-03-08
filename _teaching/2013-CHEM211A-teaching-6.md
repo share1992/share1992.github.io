@@ -8,5 +8,4 @@ date: 2013-09-30
 location: "Davis, CA, USA"
 ---
 
-TBD
 
