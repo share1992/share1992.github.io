@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-======
 * Ph.D in Chemistry, University of California Davis, 2018
 * B.S. in Chemical Engineering, University of Washington, 2013
 
 ### Professional Experience
-======
 * April 2023 – Present: Drug Discovery Fellow
   * DE Shaw Research
     
@@ -33,26 +31,21 @@ redirect_from:
   * Supervisor: Prof. Barry Carpenter
   
 ### Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ### Talks
-======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 ### Teaching
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
 ### Women Chemists Committee (WCC) of the American Chemical Society (ACS)
-Sexual Harassment Prevention Team Leader. 
-
-Wikipedia Edit-a-thon Event Coordinator. 
+Sexual Harassment Prevention Team Leader
+Wikipedia Edit-a-thon Event Coordinator 
