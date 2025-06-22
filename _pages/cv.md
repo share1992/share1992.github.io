@@ -11,20 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemical Engineering, University of Washington, 2013
 * Ph.D in Chemistry, University of California Davis, 2018
+* B.S. in Chemical Engineering, University of Washington, 2013
 
 Professional Experience
 ======
+* April 2023 – Present: Drug Discovery Fellow
+  * DE Shaw Research
+    
+* July 2021 – December 2022: Computer Aided Drug Design (CADD) Scientist
+  * Atomwise
+
+* April 2020 – July 2021: Postdoctoral Scholar
+  * University of Washington
+  * Department of Chemical Engineering
+  * Supervisor: Prof. Jim Pfaendtner
+    
 * September 2018 – April 2020: Postdoctoral Research Associate
   * University of Bristol
   * School of Chemistry
   * Supervisor: Prof. Barry Carpenter
-
-* April 2020 – Present: Postdoctoral Scholar
-  * University of Washington
-  * Department of Chemical Engineering
-  * Supervisor: Prof. Jim Pfaendtner
   
 Publications
 ======
