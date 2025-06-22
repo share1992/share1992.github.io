@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * Ph.D in Chemistry, University of California Davis, 2018
 * B.S. in Chemical Engineering, University of Washington, 2013
 
-Professional Experience
+### Professional Experience
 ======
 * April 2023 – Present: Drug Discovery Fellow
   * DE Shaw Research
@@ -32,19 +32,19 @@ Professional Experience
   * School of Chemistry
   * Supervisor: Prof. Barry Carpenter
   
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+### Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
