@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Stephanie R. Hare / Computational Chemist"
 title_separator          : "-"
 name                     : &name "Dr. Stephanie R. Hare"
-description              : &description "Computational chemist and drug discovery scientist"
+description              : &description "Computational chemist in drug discovery"
 url                      : https://share1992.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "share1992/share1992.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Stephanie R. Hare"
   avatar           : "SHare_headshot_new.jpg"
-  bio              : "Computational chemist specializing in DFT calculations and MD simulations"
+  bio              : "Computational chemist in drug discovery"
   location         : "New York City, NY, USA"
   employer         : "DE Shaw Research"
   pubmed           : 
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "share1992"
+  github           : #"share1992"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "stephanie-r-hare"
-  orcid            : "https://orcid.org/0000-0003-3153-143X"
+  orcid            : #"https://orcid.org/0000-0003-3153-143X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
